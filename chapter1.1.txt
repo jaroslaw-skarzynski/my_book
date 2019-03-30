@@ -1,1 +1,2 @@
 nowy plik hotfix 
+zmiany z GitHUb
